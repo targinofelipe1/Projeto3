@@ -1,0 +1,116 @@
+{
+  "produtos": [
+    {
+      "logo": "fffffff",
+      "nome": "ffffffffff",
+      "localizacao": "",
+      "avaliacao": 0,
+      "contato": "444444",
+      "localizao": "ffffffffff",
+      "mediaavaliacao": "5",
+      "id": 1
+    },
+    {
+      "logo": "ggggggggg",
+      "nome": "1222",
+      "localizacao": "",
+      "avaliacao": 0,
+      "contato": "896666666",
+      "localizao": "77777",
+      "mediaavaliacao": "5",
+      "id": 2
+    },
+    {
+      "logo": "",
+      "nome": "",
+      "localizacao": "",
+      "avaliacao": 0,
+      "contato": "",
+      "id": 3
+    },
+    {
+      "logo": "",
+      "nome": "",
+      "localizacao": "",
+      "avaliacao": 0,
+      "contato": "",
+      "id": 4
+    },
+    {
+      "logo": "",
+      "nome": "",
+      "localizacao": "",
+      "avaliacao": 0,
+      "contato": "",
+      "id": 5
+    },
+    {
+      "logo": "",
+      "nome": "",
+      "localizacao": "",
+      "avaliacao": 0,
+      "contato": "",
+      "id": 6
+    },
+    {
+      "logo": "",
+      "nome": "",
+      "localizacao": "",
+      "avaliacao": 0,
+      "contato": "",
+      "id": 7
+    },
+    {
+      "logo": "",
+      "nome": "",
+      "localizacao": "",
+      "avaliacao": 0,
+      "contato": "",
+      "id": 8
+    },
+    {
+      "logo": "",
+      "nome": "",
+      "localizacao": "",
+      "avaliacao": 0,
+      "contato": "",
+      "id": 9
+    },
+    {
+      "logo": "",
+      "nome": "",
+      "localizacao": "",
+      "avaliacao": 0,
+      "contato": "",
+      "id": 10
+    },
+    {
+      "logo": "",
+      "nome": "",
+      "localizacao": "",
+      "avaliacao": 0,
+      "contato": "",
+      "id": 11
+    },
+    {
+      "logo": "ffffffff",
+      "nome": "ffffffffffffff",
+      "localizacao": "",
+      "avaliacao": 0,
+      "contato": "89666666666",
+      "localizao": "fffffffffffffff",
+      "mediaavaliacao": "5",
+      "id": 12
+    },
+    {
+      "logo": "hhhhhhhhhh",
+      "nome": "1555",
+      "localizacao": "",
+      "avaliacao": 0,
+      "contato": "8696322",
+      "localizao": "445555",
+      "mediaavaliacao": "5",
+      "id": 13
+    }
+  ]
+}

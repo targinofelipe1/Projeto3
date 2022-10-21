@@ -1,0 +1,21 @@
+<h1>Emprendimentos Cadastrados</h1>
+
+<div class="background">
+  <div class="container">
+    <p class="cadastro pt-5"></p>
+    <div class="row">
+      <div class="col-3" *ngFor="let produto of produtos">
+        <mat-card class="example-card">
+          <mat-card-header>
+            <div mat-card-avatar class="example-header-image"></div>
+            <mat-card-title>{{ produto.logo }}</mat-card-title>
+          </mat-card-header>
+          <mat-card-content>
+            <p>Nome: {{ produto.nome }}</p>
+            <p>Localização: {{ produto.localizacao }}</p>
+          </mat-card-content>
+        </mat-card>
+      </div>
+    </div>
+  </div>
+</div>
